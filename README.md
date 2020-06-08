@@ -4,6 +4,16 @@
 
 ![](./example.png)
 
+<p align="center">
+  <a href="https://github.com/mhanberg/forest-night-alfred">Repository</a> |
+  <a href="https://github.com/mhanberg/forest-night-alfred/issues">Issues</a> |
+  <a href="https://github.com/mhanberg/forest-night-alfred/blob/master/CHANGELOG.md">Changelog</a>
+  <br><br>
+</p>
+
+This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-night) for [Alfred](https://www.alfredapp.com/). 
+
+
 ## Features
 
 - Green based but warm-toned.
