@@ -1,5 +1,13 @@
 # Changelog
 
-## June 8th, 2020
+## v2 12/14/20
+
+The theme is now a slightly modified version of "Alfred Modern Dark".
+
+The primary changes from "Alfred Modern Dark" are the colors and an increased vertical padding between search results.
+
+The colors are more subtle than v1.
+
+## v1 06/08/20
 
 - Initial Release

@@ -4,57 +4,61 @@
       "textSpacing" : 5,
       "subtext" : {
         "size" : 12,
-        "colorSelected" : "#313D42FF",
+        "colorSelected" : "#334045FF",
         "font" : "System",
-        "color" : "#86BDB9FF"
+        "color" : "#FFFFFF7E"
       },
       "shortcut" : {
         "size" : 16,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System",
-        "color" : "#E58182FF"
+        "color" : "#FFFFFF7E"
       },
-      "backgroundSelected" : "#86C094FF",
+      "backgroundSelected" : "#85C094FF",
       "text" : {
         "size" : 18,
-        "colorSelected" : "#323D43FF",
+        "colorSelected" : "#313E43FF",
         "font" : "System",
-        "color" : "#D7C9ABFF"
+        "color" : "#FFFFFFCB"
       },
-      "iconPaddingHorizontal" : 4,
+      "iconPaddingHorizontal" : 7,
+      "roundness" : 8,
       "paddingVertical" : 8,
       "iconSize" : 40
     },
     "search" : {
-      "paddingVertical" : 0,
-      "background" : "#313D42FF",
-      "spacing" : 8,
+      "backgroundSelected" : "#D8BA7EFF",
+      "paddingHorizontal" : 7,
+      "spacing" : 9,
       "text" : {
-        "size" : 34,
-        "colorSelected" : "#070807FF",
+        "size" : 36,
+        "colorSelected" : "#080907FF",
         "font" : "System Light",
-        "color" : "#D7CAABFF"
+        "color" : "#D6CAAAFF"
       },
-      "backgroundSelected" : "#D8BB7FFF"
+      "background" : "#0000003E",
+      "roundness" : 8,
+      "paddingVertical" : 5
     },
     "window" : {
-      "color" : "#323D43FF",
-      "paddingHorizontal" : 21,
-      "width" : 569,
+      "color" : "#313D42FF",
+      "paddingHorizontal" : 9,
+      "width" : 700,
       "borderPadding" : 0,
-      "borderColor" : "#A6C07FFF",
-      "blur" : 18,
-      "roundness" : 4,
-      "paddingVertical" : 14
+      "borderColor" : "#0000007F",
+      "blur" : 0,
+      "roundness" : 15,
+      "paddingVertical" : 9
     },
     "credit" : "Mitchell Hanberg",
+    "visualEffectMode" : 2,
     "separator" : {
       "color" : "#CBCBCBF3",
       "thickness" : 0
     },
     "scrollbar" : {
-      "color" : "#D8BB7FFF",
-      "thickness" : 4
+      "color" : "#D8BA7EFF",
+      "thickness" : 2
     },
     "name" : "Forest Night"
   }
