@@ -22,7 +22,7 @@ This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-
 
 ## Install
 
-Download and open this [file](https://raw.githubusercontent.com/mhanberg/forest-night-alfred/main/alfred/Forest%20Night.alfredappearance).
+Download and open this [file](https://raw.githubusercontent.com/mhanberg/forest-night-alfred/main/Forest%20Night.alfredappearance).
 
 You can download the file by right clicking the page and selecting "Save As...", just make sure it saves the `alfredappearance` extension.
 ## Features
