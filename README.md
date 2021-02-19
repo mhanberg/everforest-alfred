@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/mhanberg/forest-night-alfred">Repository</a> |
   <a href="https://github.com/mhanberg/forest-night-alfred/issues">Issues</a> |
-  <a href="https://github.com/mhanberg/forest-night-alfred/blob/master/CHANGELOG.md">Changelog</a>
+  <a href="https://github.com/mhanberg/forest-night-alfred/blob/main/CHANGELOG.md">Changelog</a>
   <br><br>
 </p>
 
@@ -22,7 +22,7 @@ This color scheme is a port of [Forest Night](https://github.com/sainnhe/forest-
 
 ## Install
 
-Download and open this [file](https://raw.githubusercontent.com/mhanberg/forest-night-alfred/master/alfred/Forest%20Night.alfredappearance).
+Download and open this [file](https://raw.githubusercontent.com/mhanberg/forest-night-alfred/main/alfred/Forest%20Night.alfredappearance).
 
 You can download the file by right clicking the page and selecting "Save As...", just make sure it saves the `alfredappearance` extension.
 ## Features
