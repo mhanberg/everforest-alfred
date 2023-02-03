@@ -11,7 +11,7 @@
   <br><br>
 </p>
 
-This color scheme is a port of [Forest Night](https://github.com/sainnhe/everforest) for [Alfred](https://www.alfredapp.com/). 
+This color scheme is a port of [Everforest](https://github.com/sainnhe/everforest) for [Alfred](https://www.alfredapp.com/). 
 
 
 ## Features
