@@ -1,5 +1,9 @@
 # Changelog
 
+## v3 2/3/23
+
+Renamed to Everforest to comply with the renamed upstream theme.
+
 ## v2 12/14/20
 
 The theme is now a slightly modified version of "Alfred Modern Dark".
